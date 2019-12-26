@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ARcard-roboA01" size="100.000000 133.333328" />
+    <ImageTarget name="BoardGame" size="500.000000 721.982788" />
+    <ImageTarget name="scifiwarrior" size="100.000000 149.765259" />
+    <ImageTarget name="fighter" size="100.000000 66.978607" />
+    <ImageTarget name="shooter" size="100.000000 66.620689" />
+  </Tracking>
+</QCARConfig>
